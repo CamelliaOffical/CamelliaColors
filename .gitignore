@@ -1,0 +1,19 @@
+# CMake
+build/
+CMakeCache.txt
+CMakeFiles/
+CMakeSettings.json
+CMakeLists.txt.user
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS files
+.DS_Store
+Thumbs.db
